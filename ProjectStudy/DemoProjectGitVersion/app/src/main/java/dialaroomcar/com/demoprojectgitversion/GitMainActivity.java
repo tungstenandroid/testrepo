@@ -10,6 +10,6 @@ public class GitMainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_git_main);
-        Toast.makeText(GitMainActivity.this, "Show toast", Toast.LENGTH_SHORT).show();
+        Toast.makeText(GitMainActivity.this, "Show toast now", Toast.LENGTH_SHORT).show();
     }
 }
